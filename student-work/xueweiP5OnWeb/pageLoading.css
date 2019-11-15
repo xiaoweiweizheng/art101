@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body{
+  font-family: 'VT323', monospace;
+  text-align: center;
+}
+
+
+h3{
+  margin-top: 300px;
+  color: FireBrick;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+/* sets canvas to be aligned to top right of screen
+position absolute will stop it from scrolling */
+canvas {
+  margin: auto;
+  top: 0;
+  left: 0;
+  position: absolute;
+  /* uncomment next line to position the canvas BEHIND the HTML */
+  z-index: -3;
+}

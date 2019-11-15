@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body{
+  font-family: 'VT323', monospace;
+  text-align: center;
+  background-image: url(images/glitch_bg_001.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  margin-top: 150px;
+  color: navy;
+  font-size: 80px;
+}
+
+h3{
+  color: FireBrick;
+}
+
+p{
+  color: DarkSlateGray;
+}
+
+a{
+  text-decoration: none;
+}

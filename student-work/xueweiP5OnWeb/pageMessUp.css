@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script|VT323');
+
+body{
+  font-family: 'Nanum Pen Script', cursive;
+  color: steelblue
+}
+
+h1{
+  font-size: 40px
+}

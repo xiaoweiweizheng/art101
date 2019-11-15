@@ -1,0 +1,19 @@
+
+body {
+  margin: 150px auto;
+  max-width: 1000px;
+  text-align: center;
+  background-color: GhostWhite;
+}
+
+
+.search-container {
+  margin: 20px auto;
+  max-width: 1000px;
+  text-align: center;
+}
+
+
+/* When you put a period in front of a CSS declaration, it indicates you are
+creating a new class. We can apply this to div elements to create different
+portfolio entries */
